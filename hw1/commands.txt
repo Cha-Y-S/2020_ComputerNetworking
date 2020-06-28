@@ -1,0 +1,26 @@
+dl netapp.cs.kookmin.ac.kr 80 /member/palladio.JPG
+200
+
+dl aaa.cs.kookmin.ac.kr 80 /aaa.html
+cannot connect
+
+dl netapp.cs.kookmin.ac.kr 80 /aaa.html
+404 Not found
+
+dl s3.amazonaws.com 80 /american-rivers-website/wp-content/uploads/2015/09/22182724/NW-rivers-threatened-by-Red-Flat-Systems_KenMorrish-header-713x629.jpg
+200
+
+dl media1.santabanta.com 80 /full5/Miscellaneous/Good%20Morning/good-morning-58a.jpg
+200
+
+dl www.lovesove.com 80 /cards/wp-content/uploads/2016/06/good-morning-buddy-wishes-lovesove.jpg
+301 Moved Permanently
+
+dl netapp.cs.kookmin.ac.kr 80 /index.html
+200
+
+dl netapp.cs.kookmin.ac.kr 80 /member/capotaormina.JPG
+200
+
+dl jcci.kr 80 /data/JCCI%202017%20CFPv12.pdf
+200
